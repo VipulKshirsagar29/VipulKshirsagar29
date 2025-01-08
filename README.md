@@ -1,29 +1,45 @@
 <h1>💫About Me</h1>
 Hi there! 👋 Welcome to My GitHub Profile 💫
 
-<br>Hi! I'm Nikhil Gharat<br>
-         Cloud & DevOps Engineer.<br>
-        📧nikhilgharat1718@gmail.com
+<br>Hi! I'm Vipul Kshirsagar<br>
+         Java Developer.<br>
+        📧vipulkshrsgr@gmail.com
 <br>
 <h2><b>🚀 Skills and Technologies </b></h2>
   
-### **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="49px" width="49px" /> Services**
-![Amazon EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Amazon S3](https://img.shields.io/badge/S3-%23FF9900.svg?style=plastic&logo=amazon-s3&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=plastic&logo=aws-lambda&logoColor=white) <br>![RDS](https://img.shields.io/badge/RDS-%23FF9900.svg?style=plastic&logo=amazon-rds&logoColor=white) ![VPC](https://img.shields.io/badge/VPC-%23FF9900.svg?style=plastic&logo=amazon-vpc&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)<br> ![ECS](https://img.shields.io/badge/ECS-%23FF9900.svg?style=plastic&logo=amazon-ecs&logoColor=white) ![EKS](https://img.shields.io/badge/EKS-%23FF9900.svg?style=plastic&logo=amazon-eks&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-%230A74DA.svg?style=plastic&logo=amazon-dynamodb&logoColor=white)<br> ![CloudFront](https://img.shields.io/badge/CloudFront-%23FF9900.svg?style=plastic&logo=amazon-cloudfront&logoColor=white) ![SNS](https://img.shields.io/badge/SNS-%23FF9900.svg?style=plastic&logo=amazon-sns&logoColor=white) ![SQS](https://img.shields.io/badge/SQS-%23FF9900.svg?style=plastic&logo=amazon-sqs&logoColor=white) ![Elastic Load Balancing](https://img.shields.io/badge/ELB-%23FF9900.svg?style=plastic&logo=amazon-elb&logoColor=white)<br> ![Route 53](https://img.shields.io/badge/Route_53-%23FF9900.svg?style=plastic&logo=amazon-route53&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-%23FF9900.svg?style=plastic&logo=amazon-iam&logoColor=white) ![AWS Auto Scaling](https://img.shields.io/badge/Auto_Scaling-%23FF9900.svg?style=plastic&logo=amazon-autoscaling&logoColor=white) ![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+### **<img src="https://img.icons8.com/?size=48&id=Pd2x9GWu9ovX&format=png" height="49px" width="49px" /> Frontend**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
 
-### **Web Servers**
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=plastic&logo=apache&logoColor=white)
+
+### **Backend**
+![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white) ![Core Java](https://img.shields.io/badge/Core%20Java-007396?style=plastic&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=plastic&logo=spring&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=plastic&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=plastic&logo=java&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-15AABF?style=plastic&logo=microservices&logoColor=white)
+![Servlet](https://img.shields.io/badge/Servlet-2F6A70?style=plastic&logo=apachetomcat&logoColor=white)
+
+
 
 ### **Operating System**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 
 ### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=plastic&logo=mysql&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-%23FF9900.svg?style=plastic&logo=amazon-rds&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=plastic&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=plastic&logo=xampp&logoColor=white)
+
+
 
 ### **Devlopement Tools**
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=plastic&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF5A5F?style=plastic&logo=sublime-text&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=eclipse&logoColor=white)
 
-### **DevOps Tools**
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+### **Version Control Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 
 
 
@@ -43,7 +59,7 @@ Hi there! 👋 Welcome to My GitHub Profile 💫
 
 <h3>🌐 Connect with Me :</h3>
     <div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://www.linkedin.com/in/nikhil-gharat-16b889277/" target="_blank">
+    <a href="https://www.linkedin.com/in/vipul-kshirsagar-3a3078252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" style="height: 30px; width: auto;" />
   </a>
 </div>
