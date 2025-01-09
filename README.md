@@ -15,9 +15,12 @@ Hi there! 👋 Welcome to My GitHub Profile 💫
 
 
 ### **Backend**
-![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white) ![Core Java](https://img.shields.io/badge/Core%20Java-007396?style=plastic&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white) ![Core Java](https://img.shields.io/badge/Core%20Java-007396?style=plastic&logo=java&logoColor=white) 
+![OOP](https://img.shields.io/badge/OOP-007396?style=plastic&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=plastic&logo=spring&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=plastic&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white)
+![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-239120?style=plastic&logo=dependabot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=plastic&logo=java&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-15AABF?style=plastic&logo=microservices&logoColor=white)
